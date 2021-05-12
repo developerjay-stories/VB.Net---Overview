@@ -1,0 +1,29 @@
+[ < attributelist > ] [ accessmodifier ] [[ Shared ] [ Shadows ] | [ Static ]]
+[ ReadOnly ] Dim [ WithEvents ] variablelist
+
+
+
+
+
+Dim StudentID As Integer
+Dim StudentName As String
+Dim Salary As Double
+Dim count1, count2 As Integer
+Dim status As Boolean
+Dim exitButton As New System.Windows.Forms.Button
+Dim lastTime, nextTime As Date
+
+
+Module variablesNdataypes
+   Sub Main()
+      Dim a As Short
+      Dim b As Integer
+      Dim c As Double
+      
+      a = 10
+      b = 20
+      c = a + b
+      Console.WriteLine("a = {0}, b = {1}, c = {2}", a, b, c)
+      Console.ReadLine()
+   End Sub
+End Module
