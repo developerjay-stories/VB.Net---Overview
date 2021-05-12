@@ -1,0 +1,47 @@
+Visual Basic .NET (VB.NET) is an object-oriented computer programming language implemented on the .NET Framework. Although it is an evolution of classic Visual Basic language, it is not backwards-compatible with VB6, and any code written in the old version does not compile under VB.NET.
+
+Like all other .NET languages, VB.NET has complete support for object-oriented concepts. Everything in VB.NET is an object, including all of the primitive types (Short, Integer, Long, String, Boolean, etc.) and user-defined types, events, and even assemblies. All objects inherits from the base class Object.
+
+VB.NET is implemented by Microsoft's .NET framework. Therefore, it has full access to all the libraries in the .Net Framework. It's also possible to run VB.NET programs on Mono, the open-source alternative to .NET, not only under Windows, but even Linux or Mac OSX.
+
+The following reasons make VB.Net a widely used professional language −
+
+Modern, general purpose.
+
+Object oriented.
+
+Component oriented.
+
+Easy to learn.
+
+Structured language.
+
+It produces efficient programs.
+
+It can be compiled on a variety of computer platforms.
+
+Part of .Net Framework.
+
+Strong Programming Features VB.Net
+
+VB.Net has numerous strong programming features that make it endearing to multitude of programmers worldwide. Let us mention some of these features −
+
+Boolean Conditions
+
+Automatic Garbage Collection
+
+Standard Library
+
+Assembly Versioning
+
+Properties and Events
+
+Delegates and Events Management
+
+Easy-to-use Generics
+
+Indexers
+
+Conditional Compilation
+
+Simple Multithreading
